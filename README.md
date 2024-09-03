@@ -1,16 +1,16 @@
 # Hotel-Analysis--Power-BI-project
 Hotel's income, customer, hotels and loyal guest analysis
 
-🚀 New Power BI Project: Analyzing Hotel Ratings 🚀
+🚀 New Power BI Project: Hotel Guest and Revenue Analysis (2016-2017) 🚀
 
-I’ve recently completed a Power BI project focusing on hotel ratings to uncover key trends and insights from customer feedback. This project aims to help hospitality businesses understand their strengths and areas for improvement, enhancing guest experiences and boosting customer satisfaction. 🏨✨
+I recently completed a Power BI project that analyzes hotel guest data, revenue, hotel performance, and reservations for the years 2016-2017. The goal of this project is to provide insights into guest behavior, revenue trends, and overall hotel performance to help hospitality businesses make strategic, data-driven decisions. 🏨📊
 
-🔍 What Does the Project Cover?
+🔍 Key Highlights of the Project:
 
-Ratings Distribution and Trend Analysis: Visualized trends over time to identify patterns in guest satisfaction.
-Sentiment Analysis: Analyzed customer reviews to categorize feedback into positive, neutral, and negative sentiments.
-Performance by Category: Evaluated different aspects such as cleanliness, service, and amenities to see which areas are rated the highest or need improvement.
-Competitor Benchmarking: Compared ratings with competitor hotels to find opportunities for competitive differentiation.
-💡 Understanding guest feedback is crucial for any hotel looking to stay ahead in a competitive market. Data-driven insights like these can drive better decision-making and help create exceptional guest experiences!
+Guest Demographics and Behavior: Analyzed guest data to uncover key demographics and behavior patterns over two years.
+Revenue Analysis: Visualized monthly and seasonal revenue trends to identify peak periods and revenue drivers.
+Hotel Performance Comparison: Compared multiple hotels' performance metrics to highlight top-performing properties and areas needing improvement.
+Reservation Patterns: Examined reservation data to understand booking patterns, cancellation rates, and the impact of different channels on overall occupancy.
+💡 These insights enable hotels to optimize their operations, tailor marketing efforts, and enhance guest experiences, ultimately driving growth and profitability.
 
-More details on my findings and dashboards will be shared soon. Stay tuned! 😊
+Stay tuned for more details on the project findings and interactive dashboards! 😊
