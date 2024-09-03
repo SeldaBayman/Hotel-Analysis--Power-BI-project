@@ -1,7 +1,10 @@
-# Hotel-Analysis--Power-BI-project
-Hotel's income, customer, hotels and loyal guest analysis
+# Hotel Data Analysis Power-BI Project
+Hotel's income, customer, hotels and loyal guests analysis
+
 
 🚀 New Power BI Project: Hotel Guest and Revenue Analysis (2016-2017) 🚀
+
+![Reservations_2](https://github.com/user-attachments/assets/2fc64f94-92bc-4637-a030-f8f654b195d2)
 
 I recently completed a Power BI project that analyzes hotel guest data, revenue, hotel performance, and reservations for the years 2016-2017. The goal of this project is to provide insights into guest behavior, revenue trends, and overall hotel performance to help hospitality businesses make strategic, data-driven decisions. 🏨📊
 
